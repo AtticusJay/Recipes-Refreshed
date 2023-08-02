@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building_blocks",
+  "group": "copper_ore",
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "X": {
+      "item": "minecraft:raw_copper"
+    },
+    "B": {
+      "item": "minecraft:raw_copper_block"
+    }
+  },
+  "pattern": [
+    "#X#",
+    "B#B",
+    "#X#"
+  ],
+  "result": {
+    "item": "minecraft:copper_ore"
+  },
+  "show_notification": true
+}

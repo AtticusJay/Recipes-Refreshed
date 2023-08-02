@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building_blocks",
+  "group": "diamond_ore",
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "X": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "#X#",
+    "X#X",
+    "#X#"
+  ],
+  "result": {
+    "item": "minecraft:diamond_ore"
+  },
+  "show_notification": true
+}

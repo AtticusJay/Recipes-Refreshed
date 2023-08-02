@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building_blocks",
+  "group": "gold_ore",
+  "key": {
+    "#": {
+      "item": "minecraft:netherrack"
+    },
+    "X": {
+      "item": "minecraft:gold_nugget"
+    },
+    "I": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "I#I",
+    "XXX"
+  ],
+  "result": {
+    "item": "minecraft:nether_gold_ore"
+  },
+  "show_notification": true
+}

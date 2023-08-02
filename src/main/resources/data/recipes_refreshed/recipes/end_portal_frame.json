@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "B": {
+      "item": "minecraft:end_stone"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "pattern": [
+    " N ",
+    "EBE",
+    "BBB"
+  ],
+  "result": {
+    "item": "minecraft:end_portal_frame"
+  },
+  "show_notification": true
+}
